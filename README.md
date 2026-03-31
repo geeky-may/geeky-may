@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Student-EE-%23185FA5?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%2FML-Learner-%2327500A?style=flat-square&color=EAF3DE&labelColor=27500A" />
   <img src="https://img.shields.io/badge/Open%20to-Work-%23712B13?style=flat-square&color=FAECE7&labelColor=712B13" />
-  <img src="https://img.shields.io/badge/📍-Lucknow%2C%20India-%233C3489?style=flat-square&color=EEEDFE&labelColor=3C3489" />
+  <img src="https://img.shields.io/badge/📍-Kanpur%2C%20India-%233C3489?style=flat-square&color=EEEDFE&labelColor=3C3489" />
 </p>
 
 ---
